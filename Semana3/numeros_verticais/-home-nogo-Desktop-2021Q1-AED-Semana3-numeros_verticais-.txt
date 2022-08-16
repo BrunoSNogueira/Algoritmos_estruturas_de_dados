@@ -1,0 +1,1 @@
+/home/nogo/Desktop/2021Q1/AED/Semana3/numeros_verticais/num.c
